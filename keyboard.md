@@ -1,6 +1,7 @@
 # OS/X
 [Canonical Apple Keyboard Reference](https://support.apple.com/en-ca/HT201236)
 control-F3 shows all windows in the current application, use cursor key to cycle between them
+command-space brings up searchlight --- suggestion is to replace it with Alfred
 
 # Bash
 [Bash Keyboard Shortcuts](http://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/)
