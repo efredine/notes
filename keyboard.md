@@ -46,3 +46,21 @@ shift-command-F search all files
 
 Column selection!
 With mouse using option key
+
+More on selecting.
+[A very good primer](http://brettterpstra.com/2014/07/23/sublime-text-selections/)
+Key things I learned:
+- you can command-click on any point to create a new curser;
+- command-shift-J expand to scope is useful to selecting the content of the strings then expanding that selection to include
+the quotation marks and that sort of thing
+
+Installed this package to expand selections to a function:
+[Expand to function (javascript)](https://github.com/gillibrand/expand-selection-to-function-js)
+Works beautifully with option up-arrow
+
+## Plug-ins
+[10 best for full stack developers]https://www.sitepoint.com/10-essential-sublime-text-plugins-full-stack-developer/
+Git-gutter seems more useful than running all the git commands from within sublime.
+[Git-gutter](https://github.com/jisaacks/GitGutter)
+
+[Javascript snippets for javascript and nodejs](https://github.com/zenorocha/sublime-javascript-snippets)
